@@ -1,4 +1,7 @@
-public static void main(String args[])
+class HelloWorld
 {
-  print("Hello World");
+	public static void main(String args[])
+	{
+		System.out.print("Hello WOrld Anil Suri");
+	}
 }
