@@ -1,3 +1,0 @@
-Hi This is Anil Suri.
-
-Adding new file in Git Repo.
